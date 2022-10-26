@@ -1,0 +1,58 @@
+@font-face{
+    font-family: Pacifico;
+    src: url(Pacifico.ttf);
+  }
+
+@font-face{
+    font-family: SFProDisplay;
+    src: url(SFPRODISPLAYREGULAR.OTF);
+}
+
+.text-head{
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 84px;
+    text-align: center;
+    
+    color: #FCB371;
+}
+
+.style-td{
+    width: 500px;
+    height: 46px;
+}
+
+.back-tab{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 24px;
+    height: 0px;
+    left: 80px;
+    top: 80px;
+    
+    border: 20px solid #FCB371;
+}
+
+.text-tambah{
+    width: 100px;
+    height: 30px;
+    margin-bottom: 10px;
+    background: #FCB371;
+    border-radius: 6px;
+    margin-left: 955px;
+    
+    font-family: 'SFProDisplay';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    
+}
